@@ -39,15 +39,15 @@ Developed full-stack applications with FastAPI, React, and Angular. Built scalab
 
 ## 🎯 What I Do
 
-```python
-expertise = {
-    "data_engineering": ["BigQuery", "Databricks", "Snowflake", "Airflow", "Spark", "Kafka"],
-    "ai_ml": ["OpenAI", "Claude", "Gemini", "LangChain", "RAG", "Vector DBs"],
-    "backend": ["FastAPI", "Spring Boot", "Node.js", "PostgreSQL", "Redis"],
-    "frontend": ["React", "Next.js", "Angular", "TypeScript"],
-    "cloud": ["GCP", "AWS", "Azure", "Kubernetes", "Terraform"],
-}
-```
+**🏗️ Data Engineering** • Building scalable pipelines with BigQuery, Databricks, Snowflake, Airflow, Spark & Kafka
+
+**🤖 AI/ML** • Developing LLM applications with OpenAI, Claude, Gemini, LangChain & RAG systems
+
+**⚙️ Backend** • Creating robust APIs with FastAPI, Spring Boot, Node.js, PostgreSQL & Redis
+
+**🌐 Frontend** • Crafting modern UIs with React, Next.js, Angular & TypeScript
+
+**☁️ Cloud** • Architecting cloud-native solutions on GCP, AWS, Azure with Kubernetes & Terraform
 
 ## 📬 Connect With Me
 
