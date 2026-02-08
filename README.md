@@ -1,84 +1,67 @@
-# Hi there, I'm Di Zhang 👋
-
 <div align="center">
+
+# Hi, I'm Di Zhang 👋
+
+### Senior Software Engineer @ Google
+**Data Engineering • Full-Stack Development • AI/ML**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:di.zhang505@outlook.com)
-[![Location](https://img.shields.io/badge/Location-Bothell,_WA-green?style=for-the-badge&logo=google-maps&logoColor=white)]()
+[![Location](https://img.shields.io/badge/Bothell,_WA-48B9C7?style=for-the-badge&logo=google-maps&logoColor=white)]()
 
 </div>
 
-## 🚀 About Me
+---
 
-**Senior Software Engineer @ Google** | Data Engineering | Full-Stack Development | AI/ML
+## 👨‍💻 About Me
 
-I architect and deliver production-grade systems at the intersection of **data engineering**, **cloud infrastructure**, and **AI-powered applications**. With experience spanning Google and IBM, I specialize in building scalable platforms that process massive datasets and deliver intelligent user experiences.
+I architect and deliver **production-grade systems** at the intersection of data engineering, cloud infrastructure, and AI-powered applications. With experience at **Google** and **IBM**, I specialize in building scalable platforms that process massive datasets and deliver intelligent user experiences.
 
-### 💼 What I Do
-
-🔹 **Data & Analytics Platforms** - Designing end-to-end pipelines on GCP, AWS, Azure, and Microsoft Fabric
-🔹 **Real-Time Data Processing** - Building streaming pipelines with Kafka, Dataflow, Databricks, and Spark
-🔹 **AI/LLM Applications** - Developing production systems with FastAPI, LangChain, OpenAI, Claude, and Gemini
-🔹 **Full-Stack Engineering** - Creating scalable applications with React, Next.js, Angular, and modern backend frameworks
-🔹 **Cloud Architecture** - Implementing resilient, cost-optimized solutions across multi-cloud environments
+- 🏗️ Building **data pipelines** on GCP, AWS, Azure & Microsoft Fabric
+- ⚡ Developing **real-time streaming** systems with Kafka, Spark & Databricks
+- 🤖 Creating **AI/LLM applications** with FastAPI, LangChain & OpenAI
+- 🌐 Architecting **full-stack solutions** with React, Next.js & Angular
+- ☁️ Designing **cloud-native** systems optimized for scale and cost
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Cloud & Data Platforms
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=google-cloud&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=flat-square&logo=amazon-redshift&logoColor=white)
+<div align="center">
 
-### Data Engineering & ETL
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Dataflow](https://img.shields.io/badge/Google_Dataflow-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,scala,r,bash" />
 
-### Backend Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+### Cloud Platforms & Data
+<img src="https://skillicons.dev/icons?i=gcp,aws,azure,kubernetes,docker,terraform" />
 
-### AI & Machine Learning
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+### Backend & APIs
+<img src="https://skillicons.dev/icons?i=fastapi,django,spring,nodejs,express,flask" />
 
 ### Frontend Development
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript,html,css,tailwind" />
 
 ### Databases & Caching
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,supabase" />
 
-### DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+### Data Engineering & Tools
+<img src="https://skillicons.dev/icons?i=kafka,spark,airflow,elasticsearch,grafana,prometheus" alt="Data Tools" />
 
-### Visualization & BI
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
+### AI/ML & DevOps
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,git,github,gitlab,jenkins" />
+
+</div>
+
+### 📊 Additional Technologies
+
+```text
+Data Warehouses:    BigQuery • Snowflake • Redshift • Azure Synapse • Databricks
+Data Engineering:   Apache Airflow • dbt • Apache Beam • Dataflow • Azure Data Factory
+Streaming:          Apache Kafka • Azure Event Hubs • Pub/Sub • Kinesis
+AI/LLM:             OpenAI • Anthropic Claude • Google Gemini • LangChain • LangGraph
+BI & Visualization: Power BI • Tableau • Looker • Looker Studio • QuickSight
+Observability:      ELK Stack • Prometheus • Grafana • DataHub • OpenTelemetry
+```
 
 ---
 
@@ -86,56 +69,110 @@ I architect and deliver production-grade systems at the intersection of **data e
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+### 📈 Contribution Graph
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 💡 Highlighted Experience
+## 💼 Professional Experience
 
-### 🔹 Google (Sep 2022 - Present)
-**Software Engineer**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Architected end-to-end **GCP data and ML pipelines** using Cloud Storage, Pub/Sub, Dataflow, BigQuery, and Vertex AI
-- Built **real-time streaming pipelines** with Azure Databricks, Event Hubs, and Delta Lake for low-latency data processing
-- Designed **ELT frameworks** using Snowflake, dbt, and Apache Airflow with automated testing and orchestration
-- Developed **Wealth Management Agentic AI Chatbot** using Microsoft Fabric, LangChain agents, and vector stores
-- Implemented **production-grade LLM applications** with FastAPI, integrating OpenAI, Claude, and Gemini models
-- Reduced LLM processing costs by **89%** through prompt optimization and structured outputs
+### <img src="https://img.icons8.com/color/48/000000/google-logo.png" width="30"/> Google
+**Software Engineer** | Sep 2022 - Present
 
-### 🔹 IBM (Feb 2017 - Sep 2022)
-**Software Engineer**
+#### Data Engineering & ML
+- 🏗️ Architected **end-to-end GCP data pipelines** with BigQuery, Dataflow & Vertex AI
+- ⚡ Built **real-time streaming** with Azure Databricks, Event Hubs & Delta Lake
+- 🔄 Designed **ELT frameworks** using Snowflake, dbt & Apache Airflow
 
-- Built **scalable backend services** with FastAPI, LangChain, and LangServe supporting multiple AI providers
-- Developed **interactive UIs** using React, Angular, TypeScript, and Streamlit with real-time content generation
-- Led **UI architecture** for enterprise products in agile environments, collaborating with cross-functional teams
-- Migrated **legacy systems** to modern React architectures with RESTful APIs
-- Implemented **comprehensive testing** strategies with Jest, Mocha, Enzyme, and Cypress
+#### AI/LLM Applications
+- 🤖 Developed **Wealth Management AI Chatbot** with Microsoft Fabric & LangChain
+- 💰 Reduced LLM costs by **89%** through optimization
+- 🔌 Integrated OpenAI, Claude & Gemini models in production
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://img.icons8.com/color/48/000000/ibm.png" width="30"/> IBM
+**Software Engineer** | Feb 2017 - Sep 2022
+
+#### Full-Stack Development
+- ⚙️ Built **scalable backends** with FastAPI, LangChain & LangServe
+- 🎨 Developed **enterprise UIs** with React, Angular & TypeScript
+- 🏛️ Led **UI architecture** for multiple products
+
+#### System Migration & Testing
+- 🔄 Migrated **legacy systems** to modern React architectures
+- ✅ Implemented **comprehensive testing** with Jest, Mocha & Cypress
+- 🐳 Deployed services using Docker with cloud-native patterns
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎯 Current Focus
 
-🔸 Building production-grade AI applications with LLMs
-🔸 Optimizing cloud-native data pipelines for performance and cost
-🔸 Exploring agentic AI systems and advanced RAG architectures
-🔸 Contributing to open-source data engineering and AI tools
+<div align="center">
+
+| 🤖 AI/LLM | ☁️ Cloud Native | 📊 Data Engineering | 🧪 Research |
+|:---:|:---:|:---:|:---:|
+| Production LLM apps | Pipeline optimization | Agentic AI systems | Open-source contributions |
+| RAG architectures | Cost efficiency | Real-time processing | Advanced ML patterns |
+
+</div>
+
+---
+
+## 🏆 Key Achievements
+
+```python
+achievements = {
+    "cost_optimization": "89% reduction in LLM processing costs",
+    "scale": "Processing TBs of data daily across multi-cloud platforms",
+    "real_time": "Built low-latency streaming pipelines for high-volume events",
+    "ai_innovation": "Developed agentic AI chatbots with autonomous reasoning",
+    "full_stack": "Architected end-to-end platforms from data to UI"
+}
+```
 
 ---
 
 ## 📫 Let's Connect
 
-I'm always interested in discussing data architecture, AI/ML systems, and cloud-native solutions. Feel free to reach out!
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-di.zhang505@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:di.zhang505@outlook.com)
+I'm always interested in discussing **data architecture**, **AI/ML systems**, and **cloud-native solutions**. Feel free to reach out!
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:di.zhang505@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+
+<br/>
+
+### 💬 Open to opportunities in:
+**Data Engineering** • **ML/AI Engineering** • **Full-Stack Development** • **Cloud Architecture**
 
 </div>
 
@@ -143,8 +180,10 @@ I'm always interested in discussing data architecture, AI/ML systems, and cloud-
 
 <div align="center">
 
-*"Building scalable systems that turn data into intelligence"*
+### *"Building scalable systems that turn data into intelligence"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
