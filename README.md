@@ -11,6 +11,16 @@
 
 </div>
 
+## 💼 Experience
+
+**<img src="https://img.icons8.com/color/30/000000/google-logo.png" width="25"/> Google** • Software Engineer • *Sep 2022 - Present*
+
+Building production-grade data pipelines, AI applications, and cloud-native systems across GCP, AWS, and Azure. Led development of agentic AI chatbot using LangChain and reduced LLM costs by 89% through optimization.
+
+**<img src="https://img.icons8.com/color/30/000000/ibm.png" width="25"/> IBM** • Software Engineer • *Feb 2017 - Sep 2022*
+
+Developed full-stack applications with FastAPI, React, and Angular. Built scalable backend services with LangChain, migrated legacy systems to modern architectures, and deployed cloud-native applications.
+
 ## 💻 Tech Stack
 
 <p align="center">
@@ -27,39 +37,6 @@
   <img src="https://skillicons.dev/icons?i=d3,materialui,bootstrap,figma,photoshop,illustrator,xd,notion" />
 </p>
 
-## 💼 Experience
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### <img src="https://img.icons8.com/color/48/000000/google-logo.png" width="30"/> Google
-
-**Software Engineer** • *Sep 2022 - Present*
-
-- 💡 GCP/AWS/Azure Data Pipelines
-- 🔥 Real-time Streaming (Kafka, Databricks)
-- 🤖 AI Chatbot (LangChain, Fabric)
-- 📊 BigQuery, Snowflake, dbt
-- ⚡ 89% LLM Cost Reduction
-
-</td>
-<td width="50%" valign="top">
-
-### <img src="https://img.icons8.com/color/48/000000/ibm.png" width="30"/> IBM
-
-**Software Engineer** • *Feb 2017 - Sep 2022*
-
-- 🚀 FastAPI + LangChain Backends
-- 💻 React, Angular, Next.js
-- 🎨 Enterprise UI Architecture
-- 🔐 OAuth2, JWT Security
-- 🐳 Docker, Kubernetes Deploy
-
-</td>
-</tr>
-</table>
-
 ## 🎯 What I Do
 
 ```python
@@ -71,23 +48,6 @@ expertise = {
     "cloud": ["GCP", "AWS", "Azure", "Kubernetes", "Terraform"],
 }
 ```
-
-## 🏆 Key Achievements
-
-<table align="center">
-<tr>
-<td align="center"><b>💰 Cost Optimization</b></td>
-<td align="center"><b>📈 Scale</b></td>
-<td align="center"><b>⚡ Real-time</b></td>
-<td align="center"><b>🤖 AI Innovation</b></td>
-</tr>
-<tr>
-<td align="center">89% reduction in<br/>LLM costs</td>
-<td align="center">Processing TBs of<br/>data daily</td>
-<td align="center">Low-latency<br/>streaming</td>
-<td align="center">Agentic AI<br/>systems</td>
-</tr>
-</table>
 
 ## 📬 Connect With Me
 
