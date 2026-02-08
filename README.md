@@ -21,6 +21,8 @@ Building production-grade data pipelines, AI applications, and cloud-native syst
 
 Developed full-stack applications with FastAPI, React, and Angular. Built scalable backend services with LangChain, migrated legacy systems to modern architectures, and deployed cloud-native applications.
 
+![GitHub Snake](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg)
+
 ## 💻 Tech Stack
 
 <p align="center">
