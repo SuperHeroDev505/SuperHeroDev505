@@ -2,24 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=200&section=header&text=Di%20Zhang&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff"/>
 
-### 🚀 Senior Software Engineer @ Google
+### 🚀 Senior Software Engineer
 **Data Engineering • AI/ML • Full-Stack**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/di-zhang1992)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:di.zhang505@outlook.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/SuperHeroDev505)
-
 </div>
-
-## 💼 Experience
-
-**<img src="https://img.icons8.com/color/30/000000/google-logo.png" width="25"/> Google** • Software Engineer • *Sep 2022 - Present*
-
-Building production-grade data pipelines, AI applications, and cloud-native systems across GCP, AWS, and Azure. Led development of agentic AI chatbot using LangChain and reduced LLM costs by 89% through optimization.
-
-**<img src="https://img.icons8.com/color/30/000000/ibm.png" width="25"/> IBM** • Software Engineer • *Feb 2017 - Sep 2022*
-
-Developed full-stack applications with FastAPI, React, and Angular. Built scalable backend services with LangChain, migrated legacy systems to modern architectures, and deployed cloud-native applications.
 
 ![GitHub Snake](https://raw.githubusercontent.com/SuperHeroDev505/SuperHeroDev505/output/github-snake.svg)
 
@@ -54,9 +40,6 @@ Developed full-stack applications with FastAPI, React, and Angular. Built scalab
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/di-zhang1992">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="mailto:di.zhang505@outlook.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
